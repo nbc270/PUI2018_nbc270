@@ -9,6 +9,6 @@ Part one of the assignment iniated with creating a csv file in my HW2_nbc270 fol
 Part two of the assignment initated with downloading and reading a csv file from NYC Open Data and graphing two numerical values. I chose 
 to look at reservoir storage. Storage had no unit provided but is some time of volume. Capacity was determined to be percetage. Graphing the two allowed me to understand the relationship between volume and percent capacity. I did this on my own. 
 
-Part three was taking information from the MTA Bus API and parsing the json file to collect the latitude and longitude of each B52 bus. I was primarily responsible for reading through the API to find specific dictionary and libraries and some script writing. I collaborated with Aaron Hill, Eve Marenghi, and Katie Voorhees.
+Part three was taking information from the MTA Bus API and parsing the json file to collect the latitude and longitude of each B52 bus. I was primarily responsible for reading through the API to find specific dictionary and libraries and script writing. I collaborated with Aaron Hill, Eve Marenghi, and Katie Voorhees.
 
 Part four was taking information from the MTA Bus API and parsing the json file to collect the latitude, longitude, stop name, and stop status of each B52 bus. Also required was to find missing data and convert it to N/A and write it out as a CSV. I was primarily responsible for reading through the API to find specific dictionary and libraries and some script writing. I collaborated with Aaron Hill, Eve Marenghi, and Katie Voorhees.
