@@ -5,7 +5,7 @@
 
 ### a. verify Null and alternative hypotheses are formulated correctly, and that they are state in both words and formulae (with the proper definitions to accompany the formulae)
 
-The null and alternative hypotheses are formulated clearly to understand. However, I did not locate hypotheses stated in words. 
+The null and alternative hypotheses are formulated clearly to understand. However, I was not able to locate any hypotheses stated in words. 
 
 Based on my understanding of the project, if the expectation is female's trip duration tends to be longer than male's by 10%, both are formulated correctly. 
 
