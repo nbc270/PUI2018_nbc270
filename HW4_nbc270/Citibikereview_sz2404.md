@@ -9,7 +9,7 @@ The null and alternative hypotheses are formulated clearly to understand. Howeve
 
 Based on my understanding of the project, if the expectation is female's trip duration tends to be longer than male's by 10%, both are formulated correctly. 
 
-### b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
+### b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values
 
 The data processing steps are very clear, the necessary data, gender and trip duration are presented and seperated into proper groups for plotting. 
 
