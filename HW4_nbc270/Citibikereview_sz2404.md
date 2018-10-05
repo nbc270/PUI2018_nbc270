@@ -1,7 +1,7 @@
 ## Citibike Review for Nathan Benjamin Caplan (nbc270).
 
 
-## 
+## Hypothesis and Data
 
 ### a. verify Null and alternative hypotheses are formulated correctly, and that they are state in both words and formulae (with the proper definitions to accompany the formulae)
 
