@@ -23,7 +23,7 @@ The idea focuses on comparing the means of two groups, female and male riders. I
 
 It is a good idea to compare trip duration between genders. Particularly, during a winter month (in this project January data was selected), dress code, road condition under harsh weather, and physical conditions can affect trip duration. Using the mean for both genders for comparison is very easy to interpret. It would be a good concise statement for any quick fact reports.
 
-Another item can possibly be conidered is visualizing the average trip duration of different duration group helpful to contrast the distribution. 
+Another item can possibly be conidered is visualizing the average trip duration of different duration group helpful to contrast the distribution. With distribution plots and/or the cumulative sum plot, it can offer more in-depth information about which trip duration range has the biggest gap between male and female riders. This can potentially help to isolate certain factors that affect bike rides the most if interested. 
 
 In addition to the Z-test, ANOVA can also be considered for identifying the difference between the female and male groups trip duration while the each duration group being the dependant variable. 
 
