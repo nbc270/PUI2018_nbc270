@@ -17,7 +17,7 @@ It is a very good idea to convert trip duration from seconds to minutes so it is
 
 ### c. chose an appropriate test to test _H0_ given the type of data, and the question asked.
 
-The idea focuses on comparing the means of two groups, female and male riders. I think Student's T can be used for testing to measure the distance/differences between two groups' means and distribution. 
+The idea focuses on comparing the means of two groups, female and male riders. I think the Z-test (paired data) can be used for testing to measure the distance/differences between two groups' means and distribution (each sample has over 30 observations). The Z-test can also compare the mean of female and male groups to all the riders in January (including no gender records).
 
 ## Comments, Statistical Test, and Suggestions
 
@@ -25,7 +25,11 @@ It is a good idea to compare trip duration between genders. Particularly, during
 
 Another item can possibly be conidered is visualizing the average trip duration of different duration group helpful to contrast the distribution. 
 
-In addition to Student's T, Z-test can also be performed. The Z-test can compare the mean of female and male groups to all the riders in January (including no gender records). ANOVA can also be considered for identifying the difference between the female and male groups trip duration while the each duration group being the dependant variable. 
+In addition to the Z-test, ANOVA can also be considered for identifying the difference between the female and male groups trip duration while the each duration group being the dependant variable. 
 
 
+## Reference: 
+
+For understanding variable types: http://www.indiana.edu/~educy520/sec5982/week_2/variable_types.pdf
+For determining potential tests: lecture 5, page 8, Steps in Null-Rejection Hypothesis Testing.
 
