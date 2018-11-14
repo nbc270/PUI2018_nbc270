@@ -9,7 +9,7 @@ part one and the ols regression in part 3.
 
 Part three was to analyze multiple data sets relating to population, GDP, and various gun-related paramters related to different nations. 
 For one of the data sets, I could not read it into python in a pythonic manner.
-The link to download it is [here](https://datawrapper.dwcdn.net/pvLFI/6/)
+The link to download it is [here](https://datawrapper.dwcdn.net/pvLFI/6/).
 Once downloaded, plots were rendered of various paramters against each other and OLS, WLS, SNS, and polyfit were applied to the data sets.
 In received help from Eve Marenghi for the OLS and WLS portions of the assignment. I aided her in finding how to change the color of an
 outlier. 
